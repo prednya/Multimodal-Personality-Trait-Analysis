@@ -1,0 +1,2 @@
+In domains like Computer Vision research, personality recognition is being intensively investigated. The ability to develop intelligent systems that reliably understand personalities became a more in-depth reality with the recent rise and popularization of Machine Learning and Deep Learning approaches.
+Marketing, psychology, surveillance, and entertainment are just a few examples of industries where personality recognition has gotten a lot of interest due to its practical implications in today's society. A variety of techniques can be used to recognize personality.
